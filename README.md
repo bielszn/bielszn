@@ -1,8 +1,8 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMzemp6cTR1am05M2xhdjJnNXUycXpsZTZlYXl3Ym54OHE1cDBvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="1100"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:SEU-EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/gabriel-cardoso-btkhzin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sabriel900@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
