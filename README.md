@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25ucnFld250aGJveXNhYmZqN3N5Zzh4Y2h6dDI4aGFocWN2azI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iFRwO/giphy.gif" width="100%" alt="Banner animado"/>
-</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+bielszn!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Sempre+buscando+me+aprimorar." alt="Typing SVG" /></a>
-</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
