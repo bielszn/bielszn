@@ -45,36 +45,3 @@
   <img src="https://raw.githubusercontent.com/bielszn/bielszn/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha de Contribuições">
 </p>
 
-# GitHub Action para gerar a animação da cobrinha
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      # Gera o arquivo SVG da cobrinha
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: bielszn # Seu username aqui
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # Publica o arquivo gerado em um branch chamado "output"
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
