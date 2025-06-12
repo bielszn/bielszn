@@ -1,4 +1,4 @@
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMzemp6cTR1am05M2xhdjJnNXUycXpsZTZlYXl3Ym54OHE1cDBvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="1100"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -36,6 +36,6 @@
 ## 🐍 Minha Cobrinha de Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bielszn/bielszn/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha de Contribuições">
+  <img src="https://raw.githubusercontent.com/bielszn/bielszn/output/github-contribution-grid-snake.svg">
 </p>
 
